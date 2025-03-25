@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I'm currently working as an automation engineer on hardware develops but im more interested on software and data adq. developments.
+I've learn programming by myself and consider myself kinda 👨‍🦳 but pasionate for learning.
 <!--
 **Spliter-C/Spliter-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
